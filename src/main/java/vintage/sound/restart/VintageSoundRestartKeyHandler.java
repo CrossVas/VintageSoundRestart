@@ -1,4 +1,4 @@
-package vinatge.sound.restart;
+package vintage.sound.restart;
 
 import cpw.mods.fml.client.registry.KeyBindingRegistry;
 import cpw.mods.fml.common.TickType;
